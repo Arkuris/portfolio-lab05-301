@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm David Danilchik. I Worked in Maritime/public transportation for 4+ years, currently enrolled in school to pursue a new education in Software Development. In my previous line of work I gained experience in several skills from customer service, to emergency response and first aid. Being adaptable, the ability to take on an unfamiliar challenges and finding a way to complete it is a skill I've adopted and carry into any work or activities I'm apart of. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,70 +11,72 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Demon Destroyer 9",
+        "startDate": "2023",
+        "description": "Demon Destroyer 9 is an arcade in browser fantasy shooter I made with my colleagues at CodeFellows.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/DemonD9-photos/new darksouls esc background.png",
+          "images/portfolio/DemonD9-photos/About us page photo again lol. its sick.png"
         ],
-        "url": "",
+        "url": "https://team-bangbang.github.io/Project-Bang/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-HTML-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-CSS-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd-Duck",
+        "startDate": "1969",
+        "description": "Odd Duck is an application that tallies products clicked on. :)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/DemonD9-photos/dog-duck.jpg"
+        ],
+        "url": "https://arkuris.github.io/odd-duck/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-HTML-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-CSS-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Super Smash Bros",
+        "startDate": "1269bc",
+        "description": "I main Marth",
+        "images": [
+          "images/portfolio/DemonD9-photos/Marth3.5Banner.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-HTML-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-CSS-plain",
+            "name": "CSS"
           }
         ]
       }
